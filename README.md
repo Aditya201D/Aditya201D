@@ -26,12 +26,12 @@ I enjoy taking projects from idea to deployment, learning the technologies requi
 
 ### Tech Stack
 
-Languages: C, C++, Python, JavaScript
-Web & Backend : React, FastAPI, REST APIs
-Data & ML: Pandas, NumPy, Scikit -learn, XGBoost, LightGBM
-Databases: MySQL, SQLite
-Tools: Git, Docker, Apache Airflow, MLflow, MinIO, Linux, Bash
-Core CS: Data Structures & Algorithms, OOP, DBMS, ETL Pipelines
+- Languages: C, C++, Python, JavaScript
+- Web & Backend : React, FastAPI, REST APIs
+- Data & ML: Pandas, NumPy, Scikit -learn, XGBoost, LightGBM
+- Databases: MySQL, SQLite
+- Tools: Git, Docker, Apache Airflow, MLflow, MinIO, Linux, Bash
+- Core CS: Data Structures & Algorithms, OOP, DBMS, ETL Pipelines
 
 ### 🤝 Collaboration
 
